@@ -1,7 +1,7 @@
-import { getRepositories } from "./repositories.js";
-import { getEvents } from "./events.js";
+import { getRepositories } from "./services/repositories.js";
+import { getEvents } from "./services/events.js";
 
-import { getUser } from "./user/user.js";
+import { getUser } from "./services/user.js";
 
 import { user } from "./objects/user.js";
 import { screen } from "./objects/screen.js";
