@@ -15,3 +15,5 @@
 * Função com JavaScript;
 * Busca de API direta;
 * Fetch.
+
+<img src= './src/gif/gitHub Api.gif' alt= 'parte inicial do API'>
