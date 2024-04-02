@@ -16,4 +16,6 @@
 * Busca de API direta;
 * Fetch.
 
-<img src= './src/gif/gitHub Api.gif' alt= 'parte inicial do API'>
+<p align="center">
+  <img src="./src/gif/gitHub Api.gif" width="90%">
+</p>
